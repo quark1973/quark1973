@@ -16,29 +16,22 @@ Here are some ideas to get you started:
 -->
 # Quark1973
 
-Database Design · SvelteKit · TypeScript · MySQL
+Agent Development · Golang Engineering · Graphics Enthusiast
 
-I focus on database-oriented system design and practical full-stack development.  
-My recent work is centered on building structured academic and project-based systems, especially in database design, backend logic, and interface implementation.
+I build practical software systems with a focus on agent development, Go engineering, and backend architecture.  
+I am also passionate about computer graphics and interested in combining intelligent systems with visual computing.
 
-## Tech Stack
+## Focus
 
-- TypeScript
-- JavaScript
-- SvelteKit
-- Node.js
-- MySQL
-- Git
+- Agent Development
+- Golang Engineering
+- Backend Systems
+- Computer Graphics
 
-## Current Focus
+## Tech
 
-- Database course-design projects
-- Information management systems
-- Backend API design
-- Clean and practical interface presentation
+Go · TypeScript · SvelteKit · Node.js · MySQL · Git
 
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quark1973&show_icons=true&theme=default&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quark1973&layout=compact&theme=default&hide_border=true)
