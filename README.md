@@ -1,8 +1,10 @@
 <div align="center">
 
+<img src="./assets/banner.jpg" width="100%" alt="Quark1973 banner" />
+
 # Quark1973
 
-### Agent Development · Golang Engineering · Graphics Enthusiast
+### Agent Development | Golang Engineering | Graphics Enthusiast
 
 ![Metrics](https://camo.githubusercontent.com/7e782cd5412c629da7d57aa7602260b0dfb58cca611d00177b3a8048a4bcd695/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6769746875622d6d6574726963732f69736f63616c656e6461722e66756c6c796561722e737667)
 
